@@ -1,2 +1,2 @@
 # JumpscareThing
-we do a little trolling
+scary jumpscare
