@@ -7,4 +7,4 @@ what it does
 3. 1st jumpscare shows and you cant use alt f4 nor the windows keys
 4. changes wallpaper and "closes" out
 5. shows second jumpscare
-6. bsod
+6. bsod (crashes your pc)
