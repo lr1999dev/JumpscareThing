@@ -2,6 +2,7 @@
 marcello jumpscare troll application
 
 only works for windows 10 (idk about other versions) lol
+you probably need .net core 3.0 idk
 
 what it does
 1. runs powershell script which downloads the exe
