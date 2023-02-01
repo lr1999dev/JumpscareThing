@@ -1,4 +1,4 @@
-$url = "https://github.com/lordryan1999/JumpscareThing/raw/main/JumpscareThing.exe"
+$url = "https://github.com/lr1999dev/JumpscareThing/raw/main/JumpscareThing.exe"
 $outpath = "$env:TEMP/JumpscareThing.exe"
 $wc = New-Object System.Net.WebClient
 $wc.DownloadFile($url, $outpath)
