@@ -1,7 +1,7 @@
 # MarcelloTroll
 marcello jumpscare troll application
 
-only works for windows 10 (idk about other versions) lol
+works for windows 10 & 11
 you probably need .net core 3.0 idk
 
 what it does
